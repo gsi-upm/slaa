@@ -66,7 +66,7 @@ at [Grupo de Sistemas Inteligentes](http://www.gsi.dit.upm.es/), ETSIT-UPM.
 ## License
 
 ```
-Copyright 2012 UPM-GSI: Group of Intelligent Systems - Universidad Politécnica de Madrid (UPM)
+Copyright 2013 UPM-GSI: Group of Intelligent Systems - Universidad Politécnica de Madrid (UPM)
 
 Licensed under the Apache License, Version 2.0 (the "License"); 
 You may not use this file except in compliance with the License. 
