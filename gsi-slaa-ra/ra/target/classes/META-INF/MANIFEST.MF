@@ -1,0 +1,23 @@
+Manifest-Version: 1.0
+Export-Package: es.upm.dit.gsi.slaa.ra;uses:="javax.slee.resource,es.u
+ pm.dit.gsi.slaa.ratype,javax.slee,javax.slee.facilities,twitter4j,twi
+ tter4j.auth"
+Implementation-Title: org.mobicents:gsi-slaa-ra-ra
+Implementation-Version: 1.0
+Built-By: fet
+Tool: Bnd-1.15.0
+Bundle-Name: Mobicents :: gsi-slaa-ra-ra v1.0
+Created-By: Apache Maven Bundle Plugin
+Implementation-URL: http://www.mobicents.org
+Implementation-Vendor-Id: JBoss, a Red Hat division
+Build-Jdk: 1.7.0_17
+Bundle-Version: 1.0.0
+Bnd-LastModified: 1364425557817
+Bundle-ManifestVersion: 2
+Bundle-License: http://www.gnu.org/licenses/lgpl-2.1.html
+Bundle-Description: JAIN SLEE Project created with Mobicents EclipSLEE
+  v2.0.0.v20121003-1449
+Import-Package: es.upm.dit.gsi.slaa.ratype,javax.slee,javax.slee.facil
+ ities,javax.slee.resource,twitter4j,twitter4j.auth
+Bundle-SymbolicName: org.mobicents.gsi-slaa-ra-ra
+

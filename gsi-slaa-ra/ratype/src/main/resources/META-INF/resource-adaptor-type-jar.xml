@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE resource-adaptor-type-jar PUBLIC "-//Sun Microsystems, Inc.//DTD JAIN SLEE Resource Adaptor Type 1.1//EN"
+                                           "http://java.sun.com/dtd/slee-resource-adaptor-type-jar_1_1.dtd">
+<resource-adaptor-type-jar>
+    <resource-adaptor-type>
+        <description/>
+        <resource-adaptor-type-name>SocialNetworkRAType</resource-adaptor-type-name>
+        <resource-adaptor-type-vendor>es.upm.dit.gsi</resource-adaptor-type-vendor>
+        <resource-adaptor-type-version>1.0</resource-adaptor-type-version>
+        <resource-adaptor-type-classes>
+            <activity-context-interface-factory-interface>
+                <activity-context-interface-factory-interface-name>es.upm.dit.gsi.slaa.ratype.SocialNetworkRAActivityContextInterfaceFactory</activity-context-interface-factory-interface-name>
+            </activity-context-interface-factory-interface>
+            <resource-adaptor-interface>
+                <resource-adaptor-interface-name>es.upm.dit.gsi.slaa.ratype.SocialNetworkRAProvider</resource-adaptor-interface-name>
+            </resource-adaptor-interface>
+        </resource-adaptor-type-classes>
+    </resource-adaptor-type>
+</resource-adaptor-type-jar>

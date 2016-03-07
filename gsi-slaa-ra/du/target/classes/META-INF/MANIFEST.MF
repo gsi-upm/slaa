@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Implementation-Title: org.mobicents:gsi-slaa-ra-DU
+Implementation-Version: 1.0
+Built-By: fet
+Tool: Bnd-1.15.0
+Bundle-Name: Mobicents :: gsi-slaa-ra-DU v1.0
+Created-By: Apache Maven Bundle Plugin
+Implementation-URL: http://www.mobicents.org
+Implementation-Vendor-Id: JBoss, a Red Hat division
+Build-Jdk: 1.7.0_17
+Bundle-Version: 1.0.0
+Bnd-LastModified: 1364425559814
+Bundle-ManifestVersion: 2
+Bundle-License: http://www.gnu.org/licenses/lgpl-2.1.html
+Bundle-Description: JAIN SLEE Project created with Mobicents EclipSLEE
+  v2.0.0.v20121003-1449
+Bundle-SymbolicName: org.mobicents.gsi-slaa-ra-DU
+
